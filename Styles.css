@@ -1,11 +1,39 @@
-header {background-color: white};
+/*** BODY ***/
 
-section {
+body{
+  font-family: 'Oswald', sans-serif;
+  font-family: 'Open Sans', sans-serif;
+}
+
+
+/*** SEC1 ***/
+
+.sec1{
+  background-color: white;
+  text-align: left;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: red;
+}
+
+.logo{
+  height: 25px;
+  width: 50px;
+}
+
+
+
+
+.sec2{
   background-color: red;
   color: white;
 }
 
-.redsec{
+.sec3{
+  background-color: white;
+}
+
+.sec4{
   background-color: red;
-  color: white;
+
 }
