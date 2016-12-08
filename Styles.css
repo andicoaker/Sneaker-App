@@ -33,11 +33,10 @@ li{
 /*** SEC2 ***/
 
 .sec2{
-  background-color: #F95431;
   color: white;
   display: inline-block;
-  padding: 25px 400px
-
+  padding: 25px 400px;
+  background: linear-gradient(to right, #D81F68, #E5453B);
 }
 
 .shoe1{
@@ -49,23 +48,36 @@ li{
 
 .sec3{
   background-color: white;
-  padding: 25px 400px;
+  padding: 25px 100px;
 }
 
 
 /*** SEC4 ***/
 
 .sec4{
-  background-color: #F95431;
-  padding: 25px 400px;
+  background: linear-gradient(to right, #D81F68, #E5453B);
   color: white;
+  display: inline-block;
 }
 
 .shoe2, .shoe3, .shoe4 {
-    height: 200px;
-    width: 400px;
+    height: 125px;
+    width: 250px;
 }
 
+.funnysneakers, .nimblesneakers, .cutesneakers {
+  float: left;
+  display: inline-block;
+  padding: 100px 50px;
+}
+
+.sneakertitle{
+  float: left;
+}
+
+.price {
+  float: right;
+}
 
 /*** FOOTER ***/
 
