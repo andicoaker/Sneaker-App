@@ -6,6 +6,7 @@ body{
 
 
 /*** SEC1 ***/
+/*** ASK about using Nav instead of Sec and floating 2nd list to the right ***/
 
 .sec1{
   background-color: white;
@@ -31,6 +32,7 @@ li{
 
 
 /*** SEC2 ***/
+/*** ASK about aligning/sizing Quicksneakers section***/
 
 .sec2{
   color: white;
@@ -70,6 +72,7 @@ li{
 
 
 /*** SEC4 ***/
+/*** ASK about extending block all the way to the right ***/
 
 .sec4{
   background: linear-gradient(to right, #D81F68, #F94D41);
