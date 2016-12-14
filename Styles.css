@@ -53,6 +53,9 @@ li{
   display: inline-block;
   background: linear-gradient(to right, #D81F68, #F94D41);
   padding: 50px 200px;
+  margin-right: 0px;
+  margin-left: 0px;
+  width: 1000px;
 }
 
 .shoe1{
@@ -80,7 +83,7 @@ h1 {
   margin-bottom: 0px;
 }
 h5 {
-  color: #bb2e2e;
+  color: #8a2020;
   margin-top: 5px;
   margin-bottom: 0px;
 }
@@ -98,27 +101,22 @@ h5 {
 .price {
   float:left;
   font-size: 25px;
+  margin-top: 15px;
 }
 
-.buy {
+.button {
   color: red;
   background-color: white;
-  display: inline-block;
-  float: right;
-  padding-right: 30px;
-  height: 40px;
-  width: 100px;
-  padding-top: 16px;
-  padding-bottom: 16px;
-  padding-left: 30px;
-  margin-left: 0px;
-  margin-right: 175px;
-  margin-bottom: 0px;
-  margin-top: 0px;
-  text-align: center;
+  display: inline;
+  margin-left: 50px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
   font-size: 20px;
+  margin-top: 10px;
   font-weight: bold;
-
+  border-radius: 10px;
 }
 /*** SEC3 ***/
 
