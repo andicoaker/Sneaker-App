@@ -68,7 +68,21 @@ li{
 }
 
 .quicksneakers {
-  display: inline;
+  display: inline-block;;
+  width: 450px;
+  float: right;
+  margin-top: 0px;
+  margin-bottom: 5px;
+}
+h1 {
+  font-size: 40px;
+  margin-top: 60px;
+  margin-bottom: 0px;
+}
+h5 {
+  color: #bb2e2e;
+  margin-top: 5px;
+  margin-bottom: 0px;
 }
 
 .quicksneakersinfo {
@@ -77,6 +91,35 @@ li{
   border-top: 3px dashed #bb2e2e;
 }
 
+.reviews {
+  text-align: left;
+}
+
+.price {
+  float:left;
+  font-size: 25px;
+}
+
+.buy {
+  color: red;
+  background-color: white;
+  display: inline-block;
+  float: right;
+  padding-right: 30px;
+  height: 40px;
+  width: 100px;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 30px;
+  margin-left: 0px;
+  margin-right: 175px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+
+}
 /*** SEC3 ***/
 
 .sec3{
@@ -133,7 +176,7 @@ li{
   float: left;
 }
 
-.price {
+.price2 {
   float: right;
 }
 
