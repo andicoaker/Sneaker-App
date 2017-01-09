@@ -117,6 +117,13 @@ h5 {
   margin-top: 10px;
   font-weight: bold;
   border-radius: 10px;
+  border: 0px;
+}
+
+.button:hover{
+  color: white;
+  background-color: red;
+  cursor: pointer;
 }
 /*** SEC3 ***/
 
